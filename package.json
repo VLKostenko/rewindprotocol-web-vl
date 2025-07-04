@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "echo \"Building with token: $NEXT_PUBLIC_ACCESS_TOKEN\" && next build",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
